@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Live DVB Teletext to T42 converter
-Direct combination of working ts2pes.py and pes2t42.py
+Live Digtal Teletext to T42 converter
+Direct combination of @ZXGuesser ts2pes.py and pes2t42.py
 """
 
 import sys
