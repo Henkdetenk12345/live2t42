@@ -172,8 +172,8 @@ class LiveTeletextConverter:
 
 def main():
     if len(sys.argv) < 3:
-        print("Usage: teletext_live_fixed.py <stream_url> <pid_hex>", file=sys.stderr)
-        print("Example: teletext_live_fixed.py http://192.168.1.9:9981/stream/... 0835 | vbit-iv.py 1 0", file=sys.stderr)
+        print("Usage: python3 live2t42.py <stream_url> <pid_hex>", file=sys.stderr)
+        print("Example: python3 live2t42.py http://192.168.1.9:9981/stream/... 0835 | vbit-iv.py 1 0", file=sys.stderr)
         sys.exit(1)
     
     stream_url = sys.argv[1]
