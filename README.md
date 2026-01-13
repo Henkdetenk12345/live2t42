@@ -6,10 +6,10 @@ Note: live2t42 outputs on stdout.
 `python3 live2t42.py [url] [pid]`
 
 
-Example for NPO 1: `python3 live2t42.py "http://192.168.1.9:9981/stream/channel/6e3100625cb75166d2a37d28306b978b?ticket=7496585080d775fa6fb85a4a9fb25e60a4839471" 0835`
+Example for NPO 1 (for Ziggo DVB-C): `python3 live2t42.py "http://192.168.1.9:9981/stream/channel/6e3100625cb75166d2a37d28306b978b?ticket=7496585080d775fa6fb85a4a9fb25e60a4839471" 0835`
 
 
-Example for ZDF: `python3 live2t42.py "http://192.168.1.9:9981/stream/channel/0c84bcccf331b7a9080c6ebd4cabdfc3?ticket=96cb806a219cdeeb98e3af66d02f9e571bad87aa" 1069`
+Example for ZDF (for Ziggo DVB-C): `python3 live2t42.py "http://192.168.1.9:9981/stream/channel/0c84bcccf331b7a9080c6ebd4cabdfc3?ticket=96cb806a219cdeeb98e3af66d02f9e571bad87aa" 1069`
 
 
 ## Use cases
