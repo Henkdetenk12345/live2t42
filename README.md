@@ -1,6 +1,6 @@
 # live2t42
 ## How to use
-Note: live2t42 outputs on stdout.
+Note: live2t42 outputs on stdout or on a packetserver
 
 
 `python3 live2t42.py [url] [pid]`
