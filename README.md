@@ -4,7 +4,9 @@ Note: live2t42 outputs on stdout.
 
 
 `python3 live2t42.py [url] [pid]`
+
 or if you want to use the optional packetserver
+
 `python3 live2t42.py [url] [pid] --packetserver [port]`
 
 
